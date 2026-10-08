@@ -46,7 +46,7 @@ cask "discord"
 # ---- AI coding tools ----
 cask "t3-code@nightly"
 # ---- or lab-provided ----
-cask "claude-code"
+cask "claude-code@latest"
 cask "codex"
 # ---- or their GUI counterparts ----
 # cask "claude"
